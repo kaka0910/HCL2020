@@ -1,5 +1,5 @@
-# HCL2000 Dataset
-PRIS presents a large scale off-line handwritten Chinese character database-HCL2000 which will be made public available for the research community. The database contains 3,755 frequently used simplified Chinese characters written by 1,000 different subjects. 
+# HCL2020
+Based on HCL2020 database, we re-purpose a new large scale handwritten Chinese character dataset, named HCL2020. We add the morpheme information to the HCL2020 dataset and refine the data by down-sampling.
 
-# HCL2000-1000 Task
+# Handwritten Style Recognition on HCL2020
 We present a task about recognizition the writers' handwriting style.
